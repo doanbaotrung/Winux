@@ -9,7 +9,7 @@ Let compare current solution
 |Integration between Windows and Linux|✅|✅|✅|
 |Fast boot times|✅|✅|✅|
 |Small resource foot print compared to traditional Virtual Machines|✅|✅|✅|
-|Share system resource across users|❌|❌|✅|
+|Share system resource across users|❌|❌|✅|
 |Runs with current versions of VMware and VirtualBox|❌|✅|❌|
 |Managed VM|❌|✅|❌|
 |Full Linux Kernel|❌|✅|✅|
