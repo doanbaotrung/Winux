@@ -1,5 +1,7 @@
 # Winux
 
+Winux is a native linux kernel that run in Windows system. It will be base to run linux applications, android applications
+
 **Why winux**
 
 Let compare current solution
@@ -17,4 +19,7 @@ Let compare current solution
 |Performance across OS file systems|✅|❌|✅|
 |Android support|❌|✅|✅|
 
-Winux is a native linux kernel that run in Windows system. It will be base to run linux applications, android applications
+With these functionalities, Winux will help user can:
+- Run Linux/Android app in windows with  maximize performance. 
+- Open sources apps, which currently running on linux only, will have more platform in the market.
+- Android deveplopers can deploy their app into windows and run testing.
